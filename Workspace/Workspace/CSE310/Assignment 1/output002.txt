@@ -1,0 +1,1 @@
+Optimal knapsack: 0,1,2

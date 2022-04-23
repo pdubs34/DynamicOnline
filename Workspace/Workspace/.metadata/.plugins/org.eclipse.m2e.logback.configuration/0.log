@@ -1,0 +1,60 @@
+2021-02-17 17:56:20,218 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-17 18:45:11,741 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @2950678ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-02-17 18:45:11,965 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2021-02-17 18:45:11,986 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-02-17 18:45:11,986 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-02-17 18:45:11,988 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-02-17 18:45:12,016 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6c475efd{/wse,null,AVAILABLE}
+2021-02-17 18:45:12,036 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5ae88750{HTTP/1.1, (http/1.1)}{0.0.0.0:63958}
+2021-02-17 18:45:12,037 [main] INFO  org.eclipse.jetty.server.Server - Started @2950975ms
+2021-02-17 18:45:12,037 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-02-19 12:29:11,421 [Framework stop - Equinox Container: 667e0c95-b67e-4fff-b1ec-a458e7df51d6] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5ae88750{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2021-02-19 12:29:11,426 [Framework stop - Equinox Container: 667e0c95-b67e-4fff-b1ec-a458e7df51d6] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-02-19 12:29:11,534 [Framework stop - Equinox Container: 667e0c95-b67e-4fff-b1ec-a458e7df51d6] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6c475efd{/wse,null,STOPPED}
+2021-02-24 19:47:07,373 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-26 01:37:35,371 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-26 01:51:05,456 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-26 02:00:11,894 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-26 11:08:55,269 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-26 15:49:04,511 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 20:20:30,375 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-06 09:01:01,970 [Framework stop - Equinox Container: b26e104d-528e-4ff4-a00c-41e34c38b263] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\git\Lab06\.git]
+2021-03-09 19:56:09,521 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-11 12:49:39,167 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-11 13:37:54,210 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @2920708ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-03-11 13:37:54,492 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2021-03-11 13:37:54,513 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-03-11 13:37:54,513 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-03-11 13:37:54,514 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-03-11 13:37:54,542 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@c69722d{/wse,null,AVAILABLE}
+2021-03-11 13:37:54,563 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@643ed8c7{HTTP/1.1, (http/1.1)}{0.0.0.0:49883}
+2021-03-11 13:37:54,563 [main] INFO  org.eclipse.jetty.server.Server - Started @2921078ms
+2021-03-11 13:37:54,564 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-03-11 23:28:02,102 [Framework stop - Equinox Container: c6bbde49-c2a6-4097-8596-4e2a39a79d50] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@643ed8c7{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2021-03-11 23:28:02,103 [Framework stop - Equinox Container: c6bbde49-c2a6-4097-8596-4e2a39a79d50] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-03-11 23:28:02,230 [Framework stop - Equinox Container: c6bbde49-c2a6-4097-8596-4e2a39a79d50] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@c69722d{/wse,null,STOPPED}
+2021-03-12 09:27:17,158 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-13 10:23:40,169 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-19 23:02:36,691 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-31 16:04:41,962 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-02 22:29:49,643 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-05 16:20:00,558 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-06 15:51:50,607 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-07 00:13:45,971 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-07 12:34:22,492 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-09 14:57:53,401 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-14 01:13:20,603 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-14 01:13:21,096 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-04-19 19:02:28,806 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-21 12:28:09,939 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-27 19:24:51,310 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-29 10:17:50,768 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-30 20:12:33,940 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-30 20:12:34,449 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-04-30 23:01:13,673 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-01 21:06:35,552 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-12 19:30:22,631 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-14 10:51:28,578 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-26 19:25:48,784 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-04 01:25:19,424 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-01-19 11:50:13,055 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

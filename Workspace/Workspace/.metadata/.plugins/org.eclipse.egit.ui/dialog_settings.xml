@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/cbourke/CSCE156-Lab15"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab14"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab13"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab12"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab10"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab11"/>
+		<item value="https://github.com/TonyVDev/hacks"/>
+		<item value="https://github.com/TonyVDev/Lab06"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab06"/>
+		<item value="https://github.com/cbourke/CSCE156-Lab05"/>
+	</list>
+</section>

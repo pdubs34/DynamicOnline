@@ -1,0 +1,1 @@
+python binaryExpo.py "$@"
