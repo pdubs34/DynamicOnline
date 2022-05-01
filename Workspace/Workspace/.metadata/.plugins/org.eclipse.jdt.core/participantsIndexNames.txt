@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\pwebb\Desktop\Workspace\Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1578338037.index
-\CSCE156-Lab10\src\main\java

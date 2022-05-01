@@ -1,9 +1,0 @@
-2021-02-17 12:38:33,049 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2021-02-17 12:42:13,778 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2021-02-17 12:48:50,404 [Worker-16: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\git\CSCE156-Lab04\.git]
-2021-02-17 12:48:50,538 [Worker-16: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\OneDrive\Desktop\Workspace\CSCE156-Lab01\.git]
-2021-02-17 17:38:02,635 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2021-02-17 17:41:02,602 [Worker-4: Cloning from https://github.com/cbourke/CSCE156-Lab04] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\OneDrive\Desktop\Workspace\CSCE156-Lab04\.git]
-2021-02-17 17:44:46,670 [Worker-12: Refreshing workspace] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\git\CSCE156-Lab04\.git]
-2021-02-17 17:46:05,473 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2021-02-17 17:55:02,123 [Worker-21: Cloning from https://github.com/cbourke/CSCE156-Lab04] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pwebb\OneDrive\Desktop\Workspace\CSCE156-Lab04\.git]
