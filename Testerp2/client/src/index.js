@@ -5,7 +5,6 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route, Link} from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./TesterRoutes/Home";
-
 import NoPage from "./TesterRoutes/NoPage";
 import NewLogin from "./Controller/NewLogin";
 
