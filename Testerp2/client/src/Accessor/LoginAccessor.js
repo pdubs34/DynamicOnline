@@ -28,20 +28,32 @@ export default class LoginAccessor {
   }
 
   validateLogin(username, password) {
-    Axios.post("http://localhost:3001/checkUser", {
-      username: username,
-      password: password,
-    }).then((response) => {
-      axios.data = response.data;
-    });
-    let retrievedUser = axios.data.map(function (element) {
-      let tempUser = element.userName;
-      return tempUser;
-    });
-    let retrievedPass = axios.data.map(function (element) {
-      let tempPass = element.userName;
-      return tempPass;
-    });
+    try {
+      Axios.post("http://localhost:3001/checkUser", {
+        username: username,
+        password: password,
+      }).then((response) => {
+        axios.data = response.data;
+      });
+    } catch (err) {
+      alert(err.message);
+    }
+    try {
+      let retrievedUser = axios.data.map(function (element) {
+        let tempUser = element.userName;
+        return tempUser;
+      });
+    } catch (err) {
+      alert(err.message);
+    }
+    try {
+      let retrievedPass = axios.data.map(function (element) {
+        let tempPass = element.userName;
+        return tempPass;
+      });
+    } catch (err) {
+      alert(err.message);
+    }
     if (retrievedUser == username){
       if(retrievedPass == password){
         alert("Login Successful!");
