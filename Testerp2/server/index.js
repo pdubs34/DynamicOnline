@@ -16,15 +16,18 @@ const db = mysql.createConnection({
 app.post('/checkUser', (req,res) => {
     const username = req.body.username;
     const password = req.body.password
-    db.query("Select * from Login where userName = ? and userPassword = ?",[username,password],
-    (err,result) => {
-        if(err){
-            console.log(err)
-        }else{
-            res.send(result);
-        }
+    try {
+        db.query("Select * from Login where userName = ? and userPassword = ?",[username,password],
+        (err,result) => {
+            if(err){
+                console.log(err)
+            }else{
+                res.send(result);
+            }
+        })
+    } catch (err) {
+        throw new RuntimeException(e);
     }
-    )
 });
 app.listen(3001, ()=>{
     console.log("Worked")
